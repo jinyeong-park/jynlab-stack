@@ -1,0 +1,22 @@
+# Never commit secrets
+.env
+.env.local
+.env.*.local
+
+# Personal business data (yours, not template)
+business.md
+
+# Mission 3 outputs
+content/outreach/
+leads/
+
+# Mission 4 outputs
+content/youtube/
+
+# Python + editor junk
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+node_modules/
